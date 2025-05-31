@@ -23,7 +23,7 @@ This project enables seamless visualization of **DynamoDB data** in **Amazon Qui
 - **Live Data Updates** by syncing DynamoDB changes with QuickSight
 - ![Screenshot 2025-03-29 143612](https://github.com/user-attachments/assets/a8c4de0c-c85c-4f4b-ad2a-3f255b8cc01a)
 
-- **Cost Efficiency**: Entire setup runs at a minimal cost (**$1.30**)
+- **Cost Efficiency**: Entire setup runs at a minimal cost 
 - 
 
 ![Screenshot 2025-03-29 143617](https://github.com/user-attachments/assets/4a9749d5-1b4f-484f-a1d3-fb99dfe776f0)
